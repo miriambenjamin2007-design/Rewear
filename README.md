@@ -2,29 +2,36 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Rewear 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: NYX
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Megha Ajoy - Mar Baselios College of Engineering and Technology
+- Member 2: Miriam Benjamin - Mar Baselios College of Engineering and Technology
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://quick-agent-26543009.figma.site/
 
 ### Project Description
-[2-3 lines about what your project does]
+Rewear is a sustainable online thrift and smart wardrobe platform that helps users digitize their closet, optimize outfit combinations, detect redundant purchases, and reduce fashion overconsumption. It combines AI-based wardrobe analysis with a circular thrift marketplace to promote mindful consumption.
 
 ### The Problem statement
-[What problem are you solving?]
+The fashion industry is one of the largest contributors to carbon emissions and textile waste. A significant percentage of purchased clothing goes unworn, while users frequently rebuy similar items due to lack of wardrobe awareness. Existing thrift platforms focus only on resale but do not address overconsumption at the decision-making stage.
+There is a need for a system that reduces redundant purchases, increases garment utilization, and promotes sustainable fashion behavior.
 
 ### The Solution
-[How are you solving it?]
-
----
+Rewear introduces a digital wardrobe intelligence system integrated with a sustainable thrift marketplace.
+Our platform:
+Allows users to upload wardrobe images and digitize clothing items.
+Uses classification logic to detect category, color, and redundancy.
+Generates optimized outfit combinations to increase wear-per-item ratio.
+Suggests donation or resale for underused garments.
+Provides sustainability metrics such as estimated CO₂ savings and water savings.
+Intervenes before purchase by alerting users when similar items already exist in their closet.
+Instead of encouraging more shopping, Rewear promotes intentional and optimized consumption.
 
 ## Technical Details
 
@@ -46,10 +53,34 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+1️. Digital Wardrobe Upload & Classification
+Users can upload photos of their wardrobe.
+The system classifies items by:
+Category (tops, bottoms, dresses, etc.)
+Color
+Type
+This converts a physical closet into structured digital data.
+2️. AI-Based Outfit Generator
+The platform suggests optimized outfit combinations from existing clothes based on:
+Color harmony
+Occasion
+Item compatibility
+This increases garment utilization and reduces “nothing to wear” purchases.
+3️.Redundancy Detection & Keep/Discard Suggestions
+The system identifies:
+Duplicate or similar items
+Underused clothes
+It then suggests:
+Keep
+Donate
+Resell
+This reduces wardrobe clutter and fashion waste.
+4️.Sustainable Thrift Marketplace Integration
+Users can resell underused items through the platform’s thrift marketplace.
+Features include:
+Circular fashion model
+Extended garment lifecycle
+Estimated carbon savings tracking
 
 ---
 
