@@ -40,8 +40,7 @@ Instead of encouraging more shopping, Rewear promotes intentional and optimized 
 **For Software:**
 - Languages used: HTML
 - Frameworks used: React
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: VS Code, Git
+
 
 ---
 
